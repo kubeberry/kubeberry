@@ -1,8 +1,8 @@
 # KubeBerry
 
-![kubeberry Logo](/logos/kubeberry_logo_256x256.png])
+![Kubeberry Logo](/logos/kubeberry_logo_256x256.png)
 
-Kubernetes cluster on a stack of Raspberry Pi 4
+*Kubernetes cluster on a stack of Raspberry Pi 4*
 
 ## Hardware
 
