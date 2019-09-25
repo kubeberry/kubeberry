@@ -1,9 +1,7 @@
 # KubeBerry
 
-<p align=center>
-  <img align="center" src="/logos/kubeberry_logo_256x256.png" width="256px">
-  <i>Kubernetes cluster on a stack of Raspberry Pi 4</i>
-</p>
+<p align=center><img align="center" src="/logos/kubeberry_logo_256x256.png" width="256px"></p>
+<p align=center><i>Kubernetes cluster on a Raspberry Pi 4 Stack</i></p>
 
 ## Hardware
 
